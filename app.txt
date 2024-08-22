@@ -1,8 +1,7 @@
 Example app for git practice
 
 New feature added to app on feature branch
-<<<<<<< HEAD
-=======
 
 Search feature added to app on feature branch
->>>>>>> feature
+
+Infinite load added on master branch
