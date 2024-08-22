@@ -7,3 +7,5 @@ Search feature added to app on feature branch
 Infinite load added on master branch
 
 View user profile added on master branch
+
+Edit user profile added on master branch
