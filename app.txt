@@ -9,3 +9,5 @@ Infinite load added on master branch
 View user profile added on master branch
 
 Edit user profile added on master branch
+
+Bookmark feature added on feature branch
