@@ -1,1 +1,3 @@
 Example app for git practice
+
+New feature added to app on feature branch
