@@ -11,3 +11,5 @@ View user profile added on master branch
 Edit user profile added on master branch
 
 Liking feature added on master branch
+
+Bookmark feature added on feature branch
